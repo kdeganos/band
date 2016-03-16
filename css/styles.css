@@ -18,3 +18,18 @@ img.main{
   padding: 20px;
   text-align: right;
 }
+
+p.column{
+  background-color: gray;
+}
+
+.column{
+  width: 300px;
+  float: left;
+  padding: 40px;
+  text-align: center;
+}
+
+img.column{
+  height: 200px;
+}
