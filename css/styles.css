@@ -1,0 +1,20 @@
+.sidebar{
+  float: left;
+  padding: 40px;
+}
+
+.center{
+  text-align: center;
+}
+
+.Title{
+  font-weight: bold;
+  font-size: 40pt;
+}
+
+img.main{
+  float: right;
+  width: 300px;
+  padding: 20px;
+  text-align: right;
+}
