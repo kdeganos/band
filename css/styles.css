@@ -1,6 +1,11 @@
 .sidebar{
   float: left;
-  padding: 40px;
+  padding: 10px;
+  margin: 15px;
+  border: 10px;
+  background-color: black;
+  color: white;
+
 }
 
 .center{
@@ -19,17 +24,27 @@ img.main{
   text-align: right;
 }
 
-p.column{
+.column1{
   background-color: gray;
+}
+
+.column2{
+  background-color: blue;
+}
+
+.column3{
+  background-color: green;
 }
 
 .column{
   width: 300px;
   float: left;
-  padding: 40px;
+  margin: 20px;
   text-align: center;
+  border: 5px;
 }
 
 img.column{
   height: 200px;
+  width: 250px;
 }
